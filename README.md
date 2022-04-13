@@ -58,7 +58,7 @@ At Stylist you'll be responsible for writing unit and integration tests for your
 
 ## Coding
 
-At Stylist we don't enforce strict coding style guides, however you'll be expected to write clean code according to best practice rules specific to the programming language choosen: 
+At Stylist we don't currently enforce strict coding style guides, however you'll be expected to write clean code according to best practice rules specific to the programming language choosen: 
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 * [PHP](https://github.com/inpsyde/php-coding-standards)
