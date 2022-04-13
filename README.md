@@ -54,7 +54,7 @@ When developing code, document interfaces/contracts, classes and methods using s
 
 Test Driven Development approach is recommended but it's not mandatory. You will however be expected to write a testable code according to SOLID and DRY principles. There's a lot of tutorials and resources available online about how to write a testable code. One example can be found [here](https://dashdevs.com/blog/writing-testable-code-main-rules/).
 
-At Stylist you'll be responsible for writing unit and integration tests for your new and existing applicaitons as well as e2e tests where appropriate.
+At Stylist you'll be responsible for writing unit and integration tests for new and existing applications as well as e2e tests where appropriate.
 
 ## Coding
 
